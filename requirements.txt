@@ -1,0 +1,6 @@
+pytest
+pytest -conv
+pylint
+black
+fastapi
+uvicorn[standard]
